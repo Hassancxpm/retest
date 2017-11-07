@@ -1,3 +1,3 @@
 ;
 
-alert('This is GitHub !');
+alert('This is GitHub, but my second other branch !');
